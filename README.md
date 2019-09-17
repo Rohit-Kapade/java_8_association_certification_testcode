@@ -1,2 +1,2 @@
-# java_tips_best_practices
-Java 8 - Standard &amp; Best Practices
+# java_8_association_certification_testcode
+Java 8 - OCA Exam's tricky code snippets
